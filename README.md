@@ -24,8 +24,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Wallets
 
-* [Wizz Wallet](https://wizzwallet.io/)
-* [UniSat Wallet](https://unisat.io/)
+* [Wizz Wallet](https://wizzwallet.io/) - Atomicals' prime wallet.
+* [UniSat Wallet](https://unisat.io/) - Open Source Chrome Extension wallet for Bitcoin (BRC20 and ARC20).
 
 ## License
 
