@@ -12,6 +12,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Tools](#tools)
   * [Wallets](#wallets)
 - [Tutorials](#tutorials)
+- [Marketplaces](#marketplaces)
 - [License](#license)
 
 ## Protocol
@@ -31,6 +32,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [UniSat Wallet](https://unisat.io/) - Open Source Chrome Extension wallet for Bitcoin (BRC20 and ARC20).
 
 ## Tutorials
+
+## Marketplaces
+
+* [Bitatom](https://bitatom.io/) - ⚡️ The fastest Atomicals marketplace.
 
 ## License
 
