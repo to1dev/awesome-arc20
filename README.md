@@ -18,7 +18,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Protocol
 
-* [Official website](https://atomicals.xyz/)
+* [Official website](https://atomicals.xyz/) - The Atomicals Protocol is the simplest, most powerful way to create digital objects on Bitcoin.
 * [Official documents](https://docs.atomicals.xyz/)
 * [Twitter](https://x.com/atomicalsxyz)
 * [Github](https://github.com/atomicals/atomicals-js)
