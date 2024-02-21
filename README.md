@@ -8,13 +8,24 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 <!-- toc -->
 
-- [ARC20 Protocol](#protocol)
-  * [Official website](#official-website)
-  * [Documents](#documents)
-  * [Social media](#social-media)
+- [Protocol](#protocol)
+- [Tools](#tools)
+  * [Wallets](#wallets)
 - [License](#license)
 
+## Protocol
 
+* [Official website](https://atomicals.xyz/)
+* [Official documents](https://docs.atomicals.xyz/)
+* [Twitter](https://x.com/atomicalsxyz)
+* [Github](https://github.com/atomicals/atomicals-js)
+
+## Tools
+
+### Wallets
+
+* [Wizz Wallet](https://wizzwallet.io/)
+* [UniSat Wallet](https://unisat.io/)
 
 ## License
 
