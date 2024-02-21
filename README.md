@@ -6,7 +6,15 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
 
+<!-- toc -->
+
+- [ARC20 Protocol](#protocol)
+  * [Official website](#official-website)
+  * [Documents](#documents)
+  * [Social media](#social-media)
 - [License](#license)
+
+
 
 ## License
 
