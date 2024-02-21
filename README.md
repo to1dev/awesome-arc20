@@ -1,8 +1,8 @@
 # Awesome ARC20
 
-The Atomicals Protocol is the simplest, most powerful way to create digital objects on Bitcoin.
-
 A curated list of tools and resources for Atomicals and ARC20.
+
+***The Atomicals Protocol is the simplest, most powerful way to create digital objects on Bitcoin.***
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
