@@ -9,10 +9,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 <!-- toc -->
 
 - [Protocol](#protocol)
+- [Marketplaces](#marketplaces)
 - [Tools](#tools)
   * [Wallets](#wallets)
 - [Tutorials](#tutorials)
-- [Marketplaces](#marketplaces)
 - [License](#license)
 
 ## Protocol
@@ -21,6 +21,13 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Official documents](https://docs.atomicals.xyz/)
 * [Twitter](https://x.com/atomicalsxyz)
 * [Github](https://github.com/atomicals/atomicals-js)
+
+## Marketplaces
+
+* [Atomicals Market](https://atomicalmarket.com/) - Marketplace and Explorer for Atomicals and ARC-20.
+* [Bitatom](https://bitatom.io/) - The fastest Atomicals marketplace.
+* [SatsX](https://www.satsx.io/marketplace/atomicals/) - Atomicals / Pipe / CBRC20 / Tap Inscribe & marketplace platform.
+* [UniSat](https://unisat.io/atomicals/market/arc20) - UniSat Marketplace for ARC-20.
 
 ## Tools
 
@@ -32,10 +39,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [UniSat Wallet](https://unisat.io/) - Open Source Chrome Extension wallet for Bitcoin (BRC20 and ARC20).
 
 ## Tutorials
-
-## Marketplaces
-
-* [Bitatom](https://bitatom.io/) - ⚡️ The fastest Atomicals marketplace.
 
 ## License
 
