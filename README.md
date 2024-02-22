@@ -14,6 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Marketplaces](#marketplaces)
 - [Tools](#tools)
   * [Explorers](#explorers)
+  * [Mine](#mine)
   * [Wallets](#wallets)
 - [Tutorials](#tutorials)
 - [License](#license)
@@ -41,6 +42,11 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Atomscan](https://atomscan.org/) - Atomicals Blockchain Explorer. (Currently in beta testing phase)
 * [Bitatom Explorer](https://bitatom.io/explore) - Explore, and trade Atomicals with Bitatom.
 * [Wizz Cash](https://wizz.cash/) - Powerful tools for batch sending, minting and Atomicals Explorer.
+
+### Mint
+
+* [Bitatom](https://bitatom.io/mining) - Supports local browser mining and cloud mining, achieving efficiency several times higher than the current CLI.
+* [Wizz](https://wizz.cash/mining) - Empower Atomical Grabs with the Strength of CLOUD COMPUTING! More than 400x faster!
 
 ### Wallets
 
