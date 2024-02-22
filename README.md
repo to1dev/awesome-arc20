@@ -45,8 +45,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Mint
 
-* [Bitatom](https://bitatom.io/mining) - Supports local browser mining and cloud mining, achieving efficiency several times higher than the current CLI.
-* [Wizz](https://wizz.cash/mining) - Empower Atomical Grabs with the Strength of CLOUD COMPUTING! More than 400x faster!
+* [Atomicals Market](https://atomicalmarket.com/mint) - Mint Token, Realm, NFT, Dmint at Atomicals Market.
+* [Bitatom](https://bitatom.io/mining) - Local mining and cloud mining for tokens, achieving efficiency several times higher than the current CLI.
+* [Wizz](https://wizz.cash/mining) - Fully functional mint tool, up to 16 threads.
 
 ### Wallets
 
