@@ -14,7 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Marketplaces](#marketplaces)
 - [Tools](#tools)
   * [Explorers](#explorers)
-  * [Mine](#mine)
+  * [Mint](#mint)
   * [Wallets](#wallets)
 - [Tutorials](#tutorials)
 - [License](#license)
