@@ -1,6 +1,6 @@
 # Awesome ARC20
 
-A curated list of tools and resources for Atomicals and ARC20.
+A curated list of tools and resources for Atomicals protocol and ARC20.
 
 ***The Atomicals Protocol is the simplest, most powerful way to create digital objects on Bitcoin.***
 
@@ -11,6 +11,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 <!-- toc -->
 
 - [Protocol](#protocol)
+- [DeFi](#defi)
 - [Marketplaces](#marketplaces)
 - [Tools](#tools)
   * [Explorers](#explorers)
@@ -25,6 +26,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Official documents](https://docs.atomicals.xyz/)
 * [Twitter](https://x.com/atomicalsxyz)
 * [Github](https://github.com/atomicals/atomicals-js)
+
+## DeFi
+
+* [DotSwap](https://www.dotswap.app/) - Swap BRC20, ARC20 Natively!
 
 ## Marketplaces
 
